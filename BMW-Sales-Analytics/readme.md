@@ -244,7 +244,8 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 
 ## 👤 Author
 
-Namit Tyagi
+**Namit Tyagi**
+
 Data Analyst|SQL.PowerBI.Tableau.Excel.Python
 
 
