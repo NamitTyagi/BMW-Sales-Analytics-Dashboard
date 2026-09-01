@@ -238,7 +238,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 
 | Platform | Link |
 |----------|------|
-| Tableau Public | [View Live BMW Sales Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/BMWSalesAnalytics_17828850435440/HOME) |
+| Tableau Public | coming soon...|
 
 ---
 
@@ -247,6 +247,3 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 **Namit Tyagi**
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-dave-0980a03a8)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-orange?logo=tableau)](https://public.tableau.com/app/profile/piyushdave/vizzes)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/PiyushDave30)
