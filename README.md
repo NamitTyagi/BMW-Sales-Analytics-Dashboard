@@ -1,6 +1,6 @@
 # BMW Sales Analytics Dashboard 🚗
 
-![Landing Page](Screenshots/1.%20Home.png)
+![Landing Page](BMW-Sales-Analytics/Screenshots/1.%20Home.png)
 
 > **Self-Made Project** | Project 13  
 > A 7-page professional Tableau dashboard analyzing BMW car sales across 6 models and 4 regions — built on a custom PowerPoint-designed background with a premium BMW dark blue theme. Covers 200 sales records, 1,974 units sold, and $117.28M total revenue.
@@ -32,7 +32,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 ## 📊 Dashboard Pages — All 7
 
 ### Page 1 — Landing / Home
-![Home](Screenshots/1.%20Home.png)
+![Home](BMW-Sales-Analytics/Screenshots/1.%20Home.png)
 - BMW logo + branding
 - 6 navigation cards — one per analysis page
 - Data summary: 6 Models | 4 Regions | 200 Records
@@ -40,7 +40,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Click-to-navigate buttons for each page
 
 ### Page 2 — Executive Overview
-![Overview](Screenshots/2.%20Overview.png)
+![Overview](BMW-Sales-Analytics/Screenshots/2.%20Overview.png)
 - 5 KPIs: Total Revenue, Total Units, Total Profit, Avg Price, Profit Margin %
 - Revenue by Model — bar chart
 - Revenue by Region — horizontal bar chart
@@ -48,7 +48,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Filters: Model, Region, Price Range
 
 ### Page 3 — Model Analysis
-![Model](Screenshots/3.%20Model.png)
+![Model](BMW-Sales-Analytics/Screenshots/3.%20Model.png)
 - 5 KPIs: Top Model, Units X3, Units X1, Avg Price, Top Profit Model
 - Units Sold by Model — **lollipop chart**
 - Revenue by Model — bar chart
@@ -56,7 +56,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Avg Price by Model — horizontal bar chart
 
 ### Page 4 — Region Analysis
-![Region](Screenshots/4.%20Region.png)
+![Region](BMW-Sales-Analytics/Screenshots/4.%20Region.png)
 - 5 KPIs: Top Region, North Units, South Units, East Units, West Units
 - Units by Region — **lollipop chart**
 - Revenue by Region — horizontal bar chart
@@ -64,7 +64,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Profit by Region — horizontal green bar chart
 
 ### Page 5 — Revenue & Profit
-![Revenue](Screenshots/5.%20Revenue%20&%20Profit.png)
+![Revenue](BMW-Sales-Analytics/Screenshots/5.%20Revenue%20&%20Profit.png)
 - 5 KPIs: Top Revenue Model, Total Cost, Total Profit, Profit Margin %, Avg Profit/Record
 - Revenue vs Profit by Model — grouped bar
 - Profit Margin by Model — horizontal green bar
@@ -72,14 +72,14 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 - Profit Distribution — **Treemap by Model × Region**
 
 ### Page 6 — Time Analysis
-![Time](Screenshots/6.%20Time%20Analysis.png)
+![Time](BMW-Sales-Analytics/Screenshots/6.%20Time%20Analysis.png)
 - 5 KPIs: Total Records, Peak Units, Min Units, Avg Units, Price Range
 - Price Distribution by Model — **stacked histogram**
 - Units Sold Distribution — **stacked histogram**
 - Profit vs Units Sold — **scatter plot with trend lines**
 
 ### Page 7 — Quick Analysis
-![Quick](Screenshots/7.&20Quick%20Analysis.png)
+![Quick](BMW-Sales-Analytics/Screenshots/7.&20Quick%20Analysis.png)
 - **Metric Selector** — 5 options: Total Revenue, Total Profit, Units Sold, Avg Price, Profit Margin %
 - **Dimension Selector** — 5 options: Model, Region, Price Range, Unit Range, Profit Tier
 - Dynamic bar chart — updates instantly on any selection
@@ -190,7 +190,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 │   ├── BMW_Dashboard_Background_1668x861.pptx  ← Custom PPT backgrounds
 │   └── README.md
 │
-└── Screenshots/
+└── BMW-Sales-Analytics/Screenshots/
     ├── BMW_Home.png                 ← Page 1 — Landing/Navigation
     ├── BMW_Overview.png             ← Page 2 — Executive Overview
     ├── BMW_Model.png                ← Page 3 — Model Analysis
@@ -244,7 +244,7 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 
 ## 👤 Author
 
-**Piyush Dave**
+**Namit Tyagi**
 Data Analyst | SQL · Power BI · Tableau · Excel · Python
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/piyush-dave-0980a03a8)
