@@ -237,8 +237,8 @@ This project analyzes BMW automobile sales data to uncover performance patterns 
 ## 🌐 Live Dashboard
 
 | Platform | Link |
-|----------|------|
-| Tableau Public | [View Live BMW Sales Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/BMWSalesAnalytics_17828850435440/HOME) |
+| Tableau Public | Coming Soon |
+|----------|------| |
 
 ---
 
