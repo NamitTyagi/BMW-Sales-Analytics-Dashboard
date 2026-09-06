@@ -8,13 +8,13 @@ This folder contains the Tableau dashboard for the BMW Sales Analytics project.
 
 | File Name | Description |
 |-----------|-------------|
-| [BMW Sales Analysis Tableau](BMW%20Analysis.twbx) | Tableau 7 Page Dashboard |
+| [BMW Sales Analysis Tableau](Uploding....) | Tableau 7 Page Dashboard |
 
 ---
 
 ## 🌐 Live Dashboard
 
-👉 **[Click here to view the live BMW Sales Dashboard](https://public.tableau.com/app/profile/piyushdave/viz/BMWSalesAnalytics_17828850435440/HOME)**
+👉 **[Click here to view the live BMW Sales Dashboard](Uploding...)**
 
 ---
 
